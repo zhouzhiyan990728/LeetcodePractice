@@ -5,13 +5,15 @@ Just prepare for my job application, including data structure, algorithms, machi
 
 ## Personal Status
 
-|      |  Easy	|Medium|  	Hard   |   Total   |
-|   :---:   |  :---:   |   :---:   |   :---:   |   :---:   |
-|   Total   |   746   |   1549   |   645   |   2940   |
-|   Finished   |   1   |   0   |   0   |   1   |
-|   Completion Rate   |   |   |   |   |
+|                 | Easy	 | Medium | 	Hard | Total |
+|:---------------:|:-----:|:------:|:-----:|:-----:|
+|      Total      |  746  |  1549  |  645  | 2940  |
+|    Finished     |   3   |   0    |   0   |   3   |
+| Completion Rate |       |        |       |       |
 
 ## Catalogs
-|  No.	|   Title   |  	Solution   |   Difficulty   |   Relevant Knowledge   |
-|   :---:   |  :---:   |   :---:   |   :---:   |   :---:   |
-|  0485   |   Max Consecutive Ones   |  [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0485.Max_Consecutive_Ones) |   Easy   |   Array   |
+| No.	 |                  Title                  |                                              	Solution                                               | Difficulty |       Relevant Knowledge       |
+|:----:|:---------------------------------------:|:----------------------------------------------------------------------------------------------------:|:----------:|:------------------------------:|
+| 0485 |          Max Consecutive Ones           | [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0485.Max_Consecutive_Ones) |    Easy    |             Array              |
+| 0977 |        Squares of a Sorted Array        |                                                 [√]                                                  |    Easy    | Array / Two Pointers / Sorting |
+| 1295 | Find Numbers With Even Number of Digits |                                                 [√]                                                  |    Easy    |             Array              |

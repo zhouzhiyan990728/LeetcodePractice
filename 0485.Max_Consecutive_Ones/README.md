@@ -18,7 +18,7 @@ Explanation: The first two digits or the last three digits are consecutive 1s. T
 * For optimization, you can use max() to save the maximum value.
 
 ## Code
-```python
+```python3
 class Solution:
     def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
         count = 0;
