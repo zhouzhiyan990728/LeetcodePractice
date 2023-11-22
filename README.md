@@ -14,4 +14,4 @@ Just prepare for my job application, including data structure, algorithms, machi
 ## Catalogs
 |  No.	|   Title   |  	Solution   |   Difficulty   |   Relevant Knowledge   |
 |   :---:   |  :---:   |   :---:   |   :---:   |   :---:   |
-|  0485   |   Max Consecutive Ones   |  Click |   Easy   |   Array   |
+|  0485   |   Max Consecutive Ones   |  √ |   Easy   |   Array   |
