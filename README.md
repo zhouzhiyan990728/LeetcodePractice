@@ -8,12 +8,13 @@ Just prepare for my job application, including data structure, algorithms, machi
 |                 | Easy	 | Medium | Hard | Total |
 |:---------------:|:-----:|:------:|:----:|:-----:|
 |      Total      |  746  |  1549  | 645  | 2940  |
-|    Finished     |   4   |   0    |  0   |   4   |
+|    Finished     |   5   |   0    |  0   |   5   |
 | Completion Rate |       |        |      |       |
 
 ## Catalogs
 | No.	 |                  Title                  |                                                        	Solution                                                        | Difficulty |       Relevant Knowledge       |
 |:----:|:---------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:----------:|:------------------------------:|
+| 0088 |           Merge Sorted Array            |           [√]((https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0088.Merge_Sorted_Array            |    Easy    | Array / Two Pointers / Sorting |
 | 0485 |          Max Consecutive Ones           |          [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0485.Max_Consecutive_Ones)           |    Easy    |             Array              |
 | 0977 |        Squares of a Sorted Array        |        [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0977.Squares_of_a_Sorted_Array)        |    Easy    | Array / Two Pointers / Sorting |
 | 1089 |             Duplicate Zeros             |             [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/1089.Duplicate_Zeros)             |    Easy    |       Array/Two Pointers       |

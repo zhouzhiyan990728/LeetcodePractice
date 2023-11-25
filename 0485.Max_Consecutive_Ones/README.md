@@ -32,3 +32,18 @@ class Solution:
                 count=0;
         return maxCount;
 ```
+
+## Code using insert() and pop()
+```python3
+class Solution:  
+    def duplicateZeros(self, arr: List[int]) -> None:
+        index = 0;
+        length = len(arr);
+        while index<length:
+            if arr[index] == 0:
+                arr.insert(index+1,0);
+                arr.pop(-1);
+                index += 2;
+            else:
+                index += 1;
+```

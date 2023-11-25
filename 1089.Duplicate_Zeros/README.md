@@ -14,7 +14,7 @@ Explanation: After calling your function, the input array is modified to: [1,0,0
 
 # Solution
 * Given an integer array, duplicate each zero and keep the array in the same length.
-* Although it can be easily solved by insert() and pop(), due to the requirement that it should be in-space, we should replace each element after the zero in the reverse order.
+* Although it can be easily solved by insert() and pop(), due to the requirement that it should be in-space, we need to replace each element after the zero in the reverse order.
 
 # Code
 ```python3
