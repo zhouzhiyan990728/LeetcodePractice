@@ -1,15 +1,15 @@
 # LeetcodePractice-Python
-Welcome to my personal LeetCode practice logs using Python.
+My personal LeetCode practice logs.
 
 Just prepare for my job application, including data structure, algorithms, machine learning and database.
 
 ## Personal Status
 
-|                 | Easy	 | Medium | Hard | Total |
-|:---------------:|:-----:|:------:|:----:|:-----:|
-|      Total      |  746  |  1549  | 645  | 2940  |
-|    Finished     |   5   |   0    |  0   |   5   |
-| Completion Rate |       |        |      |       |
+|                 | Easy | Medium | Hard | Total |
+|:---------------:|:----:|:------:|:----:|:-----:|
+|      Total      | 746  |  1549  | 645  | 2940  |
+|    Finished     |  8   |   1    |  0   |   9   |
+| Completion Rate |      |        |      |       |
 
 ## Catalogs
 | No.	 |                  Title                  |                                                        	Solution                                                        | Difficulty |       Relevant Knowledge       |
@@ -22,3 +22,4 @@ Just prepare for my job application, including data structure, algorithms, machi
 | 0977 |        Squares of a Sorted Array        |        [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0977.Squares_of_a_Sorted_Array)        |    Easy    | Array / Two Pointers / Sorting |
 | 1089 |             Duplicate Zeros             |             [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/1089.Duplicate_Zeros)             |    Easy    |       Array/Two Pointers       |
 | 1295 | Find Numbers With Even Number of Digits | [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/1295.Find_Numbers_With_Even_Number_of_Digits) |    Easy    |             Array              |
+| 1346 |     Check If N and Its Double Exist     |     [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/1346.Check_If_N_and_Its_Double_EXist)     |    Easy    |       Array / Hash Table       |
