@@ -14,6 +14,7 @@ Just prepare for my job application, including data structure, algorithms, machi
 ## Catalogs
 | No.	 |                  Title                  |                                                        	Solution                                                        | Difficulty |       Relevant Knowledge       |
 |:----:|:---------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:----------:|:------------------------------:|
+| 0026 |   Remove Duplicates from Sorted Array   |   [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0026.Remove_Duplicates_from_Sorted_Array)   |    Easy    |      Array / Two Pointers      |
 | 0027 |             Remove Element              |             [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0027.Remove_Element)              |    Easy    |      Array / Two pointers      |
 | 0088 |           Merge Sorted Array            |           [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0088.Merge_Sorted_Array)            |    Easy    | Array / Two Pointers / Sorting |
 | 0485 |          Max Consecutive Ones           |          [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0485.Max_Consecutive_Ones)           |    Easy    |             Array              |
