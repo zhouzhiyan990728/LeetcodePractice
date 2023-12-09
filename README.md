@@ -8,7 +8,7 @@ Just prepare for my job application, including data structure, algorithms, machi
 |                 | Easy | Medium | Hard | Total |
 |:---------------:|:----:|:------:|:----:|:-----:|
 |      Total      | 746  |  1549  | 645  | 2940  |
-|    Finished     |  13  |   2    |  0   |  15   |
+|    Finished     |  25  |   2    |  0   |  27   |
 | Completion Rate |      |        |      |       |
 
 ## Catalogs
@@ -22,6 +22,7 @@ Just prepare for my job application, including data structure, algorithms, machi
 | 0485 |                 Max Consecutive Ones                 |                 [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0485.Max_Consecutive_Ones)                 |    Easy    |                     Array                      |
 | 0487 |               Max Consecutive Ones II                |               [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0487.Max_Consecutive_Ones_II）                |   Medium   |  Array / Dynamic Programming / Sliding Window  |
 | 0624 |              Maximum Distance in Arrays              |              [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0624.Maximum_Distance_in_Arrays)              |   Medium   |                 Array / Greedy                 |
+| 0724 |                   Find Pivot Index                   |                   [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0724.Find_Pivot_Index)                   |    Easy    |               Array / Prefix Sum               |
 | 0905 |                 Sort Array By Parity                 |                 [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0905.Sort_Array_By_Parity                  |    Easy    |         Array / Two Pointers / Sorting         |
 | 0941 |                 Valid Mountain Array                 |                 [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0941.Valid_Mountain_Array)                 |    Easy    |                     Array                      |                      
 | 0977 |              Squares of a Sorted Array               |              [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/0977.Squares_of_a_Sorted_Array)               |    Easy    |         Array / Two Pointers / Sorting         |
