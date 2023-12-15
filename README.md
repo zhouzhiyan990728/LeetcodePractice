@@ -7,8 +7,8 @@ Just prepare for my job application, including data structure, algorithms, machi
 
 |                 | Easy | Medium | Hard | Total |
 |:---------------:|:----:|:------:|:----:|:-----:|
-|      Total      | 746  |  1549  | 645  | 2940  |
-|    Finished     |  25  |   2    |  0   |  27   |
+|      Total      | 768  |  1573  | 653  | 2994  |
+|    Finished     |  31  |   3    |  0   |  34   |
 | Completion Rate |      |        |      |       |
 
 ## Catalogs
@@ -36,3 +36,4 @@ Just prepare for my job application, including data structure, algorithms, machi
 | 1299 | Replace Elements with Greatest Element on Right Side | [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/1299.Replace_Elements_with_Greatest_Element_on_Right_Side) |    Easy    |                       Array                       |
 | 1346 |           Check If N and Its Double Exist            |           [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/1346.Check_If_N_and_Its_Double_EXist)            |    Easy    |                Array / Hash Table                 |
 | 1688 |            Count of Matches in Tournament            |            [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/1688.Count_of_Maches_in_Tournament)             |    Easy    |                 Math / Simulation                 |
+| 1716 |           Calculate Money in Leetcode Bank           |          [√](https://github.com/zhouzhiyan990728/LeetcodePractice-Python/tree/main/1716.Calculate_Money_in_Leetcode_Banck)           |    Easy    |                       Math                        |
